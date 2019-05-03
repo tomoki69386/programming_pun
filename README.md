@@ -1,24 +1,36 @@
-# README
+# プログラミングダジャレ生成ガチャ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 仕様
 
-Things you may want to cover:
+- ダジャレがランダムに表示される
+- Twitter共有が出来る
+- ダジャレを投稿できる
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+# 画面数
 
-* Database creation
+## Header
 
-* Database initialization
+- サービス名
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+# Footer
 
-* ...
+- Copyright
+
+
+
+## Top
+
+- 説明文
+
+- ボタン
+
+
+
+## Result
+
+- Twitter共有
+- ダジャレを表示
