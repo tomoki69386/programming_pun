@@ -14,20 +14,20 @@
  *= require_self
  */
 
-.tweet{
+.tweet {
     background-color: #1EA1F2;
     color: white;
     font-size: 17px;
     height: 50px;
     width: 250px;
     border-radius: 25px;
-
 }
 
-.red{
+.red {
     background-color: red;
 }
-body{
+
+body {
     margin: auto;
     width: 70%;
     text-align: center;
